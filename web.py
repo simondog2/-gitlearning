@@ -1,3 +1,3 @@
 def index(request):
-    
-    return render(request,'index.html')
+   print("working in live")  
+    return render(request,'index222.html')
